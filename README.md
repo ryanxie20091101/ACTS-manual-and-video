@@ -28,8 +28,10 @@ github 的 Demo 默认使用 gh-pages 分支，Demo 地址是：http://用户名
 
 ##
 
+
+
 git add . 
-git commit -m 'new update'
+git commit -m 'new'
 git push origin master
 
 
