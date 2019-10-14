@@ -4,6 +4,9 @@
 ##
 https://github.com/MingJing2015/ACTS-manual-and-video.git
 
+HSS help 6 ALC - HSS-3(2 ExpSites).mp4 
+
+先自己看，我录的视频
 
 
 …or create a new repository on the command line
